@@ -11,5 +11,5 @@ Esse jogo foi feito usando as ferramentas do Windows Form, sem bibliotecas gráf
 •Botões de "Pausa" e "Novo Jogo";  
 •Controle através das setas.🎮  
   
-O Donwload do programa pode ser feito [aqui](../arquivos/TetrisGamerar.rar) após isso extraia e execute o arquivo TetrisGame.exe.
+O Donwload do programa pode ser feito [aqui](https://claudio-silva.netlify.app/arquivos/TetrisGamerar.rar) após isso extraia e execute o arquivo TetrisGame.exe.
 
